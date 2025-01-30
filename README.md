@@ -17,7 +17,9 @@ Proyecto académico que implementa:
 1. Clonar repositorio:
 ```bash
 git clone https://github.com/tu-usuario/tu-repositorio.git
+````
+2. Abrir index.html en el navegador
 
-Credenciales de prueba:
+3. Credenciales de prueba:
 Email: eve.holt@reqres.in
 Password: cityslicka
